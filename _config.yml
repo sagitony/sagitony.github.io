@@ -1,1 +1,51 @@
-theme: jekyll-theme-cayman
+markdown: typora
+safe: false
+permalink: /:categories/:title
+exclude:
+  - README.md
+origin: https://tobi.pub
+name: 凸凸
+title: 凸凸个人网站
+
+defaults:
+  - scope:
+        path: blog/_posts
+        type: posts
+    values:
+        permalink: blog/posts/:title
+        layout: post
+  - scope:
+        path: discovery/_posts
+    values:
+        layout: post
+
+blog:
+    name: 凸凸的心世界
+    desc: 各种各样的学习
+
+    category:
+        thinking: 思
+        experience: 获
+        criticism: 评
+        communication: 享
+    categories:
+      - name:  thinking
+        title: 思考
+
+      - name:  experience
+        title: 获得
+
+      - name:  criticism
+        title: 评论
+
+      - name: communication
+        title: 分享
+
+    scrollingLoadCount: 0
+
+meta:
+    author:
+        name: Tobi
+        email: sagitony@qq.com
+        github: sagitony                            # GitHub账号
+        gitee: sagitony                             # Gitee账号
