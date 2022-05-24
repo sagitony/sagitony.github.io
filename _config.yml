@@ -7,6 +7,7 @@ origin: https://tobi.pub
 name: iF时代设计平台
 title: 做客户最满意的设计平台
 
+
 defaults:
   - scope:
         path: blog/_posts
@@ -20,8 +21,8 @@ defaults:
         layout: post
 
 blog:
-    name: 闭门造轮子
-    desc: 造轮子工程师的代码笔记
+    name: 陈凸立
+    desc: 陈凸立的代码笔记
 
     category:
         thinking: 闭门思考
