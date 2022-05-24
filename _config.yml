@@ -4,7 +4,8 @@ permalink: /:categories/:title
 exclude:
   - README.md
 origin: https://tobi.pub
-name: 陈凸立
+name: iF时代设计平台
+title: 做最专业的装修设计平台
 
 defaults:
   - scope:
