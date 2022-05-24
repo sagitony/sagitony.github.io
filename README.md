@@ -1,39 +1,11 @@
-## Welcome to [GitHub Pages](https://github.com/sagitony/) 
+造轮子工程师的代码笔记
+======================
 
-check version1
+DO NOT FORK!
+------------
 
-You can use the [editor on GitHub](https://github.com/sagitony/sagitony.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+**此项目内容为个人主页，所有版式设计和内容皆属于作者唯一原创。未经许可请勿直接使用本项目代码作为除技术学习以外任何用途**。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+如需使用本站内的博客主题，请转向对应主题项目：[SimpleGray](https://github.com/mytharcher/SimpleGray)，该博客主题许可任意使用。
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sagitony/sagitony.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+© Since 2014 mytharcher. All rights reserverd.
