@@ -1,0 +1,7 @@
+
+document.write('<ul class="user">\
+		<li><a href="/my/#do/boss/console" target="_blank" class="login">雇主控制台</a></li>\
+		<li><a href="/login" target="_blank" class="login">登录</a></li>\
+		<li><a href="/reg" target="_blank" class="reg">注册</a></li>\
+	</ul>\
+');
