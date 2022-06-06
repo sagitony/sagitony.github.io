@@ -7,7 +7,7 @@ figure{display: block;}
 ul,ol,figure,form{margin: 0; padding: 0;}
 img{border: 0; vertical-align: middle;}
 
-html{background-image: url(./myfiles/img/bg-light.jpg);}
+html{background-image: url(img/iFBG.jpg);}
 #page{display: -webkit-flex; display: flex; background-color: rgba(85,85,85,0); color: #eee; min-height: 100%;
 }
 a{color: #eee; text-decoration: none;}
@@ -76,6 +76,9 @@ li#link-zhihu:hover i{opacity: 1; font-size: inherit; color: #888;}
 #wxwindow .pic{width:100%; height:100px; overflow:hidden;}
 #wxwindow .pic img{width:100%; height:100%;}
 #wxwindow p{width:100%; height:auto; font-size:14px; font-weight:bold; text-align:center; line-height:35px;}
+
+#introwindow{width:310px; height:auto; padding:5px; position:fixed; left:10px; bottom:10px; margin-top:-55px; overflow:hidden; border-radius:5px; box-shadow:1px 1px 1px rgba(0,0,0,0.4);
+	background:#FFF;}
 
 @media (min-width: 801px) {
 	#card{width: 725px;}

@@ -3,7 +3,7 @@ safe: false
 permalink: /:categories/:title
 exclude:
   - README.md
-origin: https://tobi.pub
+origin: https://ifsheji.cn
 name: iF时代设计平台
 title: 做客户最满意的设计平台
 

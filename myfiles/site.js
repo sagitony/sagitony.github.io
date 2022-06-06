@@ -48,10 +48,10 @@ var site = {
 	Translation: {
 		lang: {
 			en: {
-				name: 'Junyi Yan',
-				title: 'Web Engineer, Freelancer',
+				name: 'iftimes',
+				title: 'Be a good platform',
 				works: 'Works',
-				blog: 'Blog',
+				designer: 'designer',
 				'google-plus': '+me',
 
 				'work-for-free': 'Work for Freedom',
@@ -98,14 +98,14 @@ var site = {
 				return n;
 			}
 
-			function setLightColor() {
-				elf('#page').css('background-color', 'rgba(85,85,85,' + getDayLight() + ')');
-				textColorBase = 0x4d;
-				textColorDelta = 0x80;
-				textColor = Math.round(textColorBase + textColorDelta * getDayLight());
+			//function setLightColor() {
+				//elf('#page').css(background-color', 'rgba(85,85,85,' + getDayLight() + ')')
+				//textColorBase = 0x4d;
+				//textColorDelta = 0x80;
+				//textColor = Math.round(textColorBase + textColorDelta * getDayLight());
 				// console.log(textColor);
-				elf('#card header').css('color', 'rgb(' + textColor + ',' + textColor + ',' + textColor + ')');
-			}
+				//elf('#card header').css('color', 'rgb(' + textColor + ',' + textColor + ',' + textColor + ')');
+			//}
 
 			setLightColor();
 			setInterval(setLightColor, 60000);

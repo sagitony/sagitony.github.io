@@ -1,0 +1,35 @@
+.demand_head .logo .logo_left , .demand_head .tel_400 .tel_left , .guide ul li .step_bg , .guide ul li .arrow , .search_designer ul li .img ,
+.transaction .time_line , .transaction ul li .arrow , .news_list .select_new .value em , .bottom_icon label , .popupContent .arrow ,
+.popupContent .btn_close , .form_content .input_form .box .msg em , .form_bottom .box .msg em{ background:url("../img/publish_demand.png");}
+.container_wrap { width: 100%; height: auto; background: #f8f8f8; min-width: 1180px;}
+.container{ width: 1180px; height: auto; margin: 0 auto;}
+
+/*在线交易,项目需求列表*/
+.news_list{ margin-top: -100px;}
+.list_content { width: 570px; height: auto; float: left; position: relative;}
+.list_content .name{ width: auto; float: left; font-size: 28px; color: #333; font-family: '微软雅黑'; margin-bottom: 30px;}
+.list_content ul.column_name{ width: 100%; height: 40px; line-height: 40px; clear: both; background: #666;}
+.list_content ul li{ width: auto; float: left; color: #fff; font-size: 14px;}
+.list_content ul .designer{ width: 105px; padding-left: 20px;overflow: hidden; white-space: nowrap; text-overflow:ellipsis;}
+.list_content ul .user{ width: 105px;overflow: hidden; white-space: nowrap; text-overflow:ellipsis;}
+
+.list_content ul .area{ width: 120px;}
+.list_content ul .project{width: 200px; overflow: hidden; white-space: nowrap; text-overflow:ellipsis;}
+.news_list .list_right{ float: right;}
+.list_content .list_wrap { width: 100%; height: 400px; overflow: hidden;}
+.list_content .scroll_content {height: 400px; position: relative; overflow: hidden;}
+.list_content ul.detail{ width: 100%; height:480px;}
+.list_content ul.detail li{ width: 100%; height:40px; line-height: 40px; color: #333;}
+.list_content ul.detail li span{ display: block; float: left;}
+.list_content ul.detail li:nth-child(even) { background: #f0f0f0;}
+.news_list .select_new{ width: 134px; height:auto;  position: absolute; border:1px #fff solid; top:5px; z-index: 10; background: #fff; }
+.news_list .select_new .value{ width: 100%; height: 34px; line-height: 34px; float: left; cursor: pointer;}
+.news_list .select_new .value label{ font-size: 14px; color: #333; padding-left:10px; width: 105px; text-align: center; display: block; float: left;}
+.news_list .select_new .value em{ width: 9px; height: 5px; background-position: -427px -26px; float: right; margin:15px 10px 0 0; }
+.news_list .select_new ul{ width: 100%; height: auto; margin-top:34px; background: #fff; display: none;}
+.news_list .select_new ul li{ width: 100%; text-align: center; height: 34px; line-height: 34px; cursor: pointer; color: #666; font-size: 14px;}
+.news_list .select_new ul li a{ width: 100%; height: 100%; display: block;  }
+.news_list .select_new ul li a:hover{ color: #dcbb48; background: #f8f8f8;}
+.news_list .project_type { left: 290px;}
+.news_list .city { left: 434px;}
+.news_list .select_hover{ border: 1px #e3e3e3 solid;}
